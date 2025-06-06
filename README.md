@@ -1,4 +1,4 @@
-# 🚚 Cargo Management System - SQL Database
+# Cargo Management System - SQL Database
 
 This project implements a structured Cargo Management System using MySQL. It defines a relational database schema suitable for managing customers, cargo, shipments, warehouses, payments, insurance, and real-time tracking for a logistics company.
 
